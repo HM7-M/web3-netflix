@@ -1,8 +1,6 @@
-# Netflix-Starter
+# Netflix built with Moralis Web3 Projects
 
-## Netflix built with Moralis Web3 Projects
-
-### 👉 Try [WEB3 NETFLIX](https://hm7-m.github.io/web3-netflix) - https://hm7-m.github.io/web3-netflix 🚀
+### 👉 Try [WEB3 NETFLIX](https://web3-netflix-clone.vercel.app/) - https://web3-netflix-clone.vercel.app/ 🚀
 
 ## 📸 Some screenshots
 
@@ -13,9 +11,6 @@
 <img width="1724" alt="5" src="https://user-images.githubusercontent.com/68925251/162333449-5a9f76fd-bbfe-4ef3-b24c-c600fabdbb65.png">
 <img width="1560" alt="6" src="https://user-images.githubusercontent.com/68925251/162333451-f9f74dff-7ec3-4e56-be0e-4f573a2c606a.png">
 
-### 👉 Try [WEB3 NETFLIX](https://hm7-m.github.io/web3-netflix) - https://hm7-m.github.io/web3-netflix 🚀
+### 👉 Try [WEB3 NETFLIX](https://web3-netflix-clone.vercel.app/) - https://web3-netflix-clone.vercel.app/ 🚀
 
 ---
-
-
-App built by following the tutorial of https://moralis.io/
