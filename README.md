@@ -1,4 +1,4 @@
-# Netflix built with Moralis Web3 Projects
+# 📺 Netflix built with Moralis Web3
 
 ### 👉 Try [WEB3 NETFLIX](https://web3-netflix-clone.vercel.app/) - https://web3-netflix-clone.vercel.app/ 🚀
 
